@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/leptjson_test.dir/tests/test.cpp.o -o leptjson_test  libleptjson.a 
